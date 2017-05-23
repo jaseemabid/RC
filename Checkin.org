@@ -1,0 +1,18 @@
+* May 22
+
+** Plan
+
+I want to start things off by starting with a very simple compiler. I'm mostly
+interested in the backend/optimizations/code generation part of it, so I'll try
+to keep the frontend really tiny.
+
+This is the plan of action.
+
+   - Pick the simplest front-end, which might be lambda calculus or forth. Don't
+     waste much time here.
+   - Pick a decent backend. LLVM might be the best choice because its rock
+     solid, actually usable in the wild and has all the might of Apple behind
+     it.
+   - Start thinking about an IR.
+ x
+First step? Learn LLVM
