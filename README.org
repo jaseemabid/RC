@@ -1,0 +1,8 @@
+* Learning LLVM
+
+** ASM stuff I don't know [0/4]
+
+  - [ ] jmp putchr vs callq putchr
+  - [ ] Output format of /proc/<>/maps
+  - [ ] What does p2align do?
+  - [ ] what does %rax do?
