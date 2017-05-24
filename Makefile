@@ -4,9 +4,12 @@ hello.bc: hello.c
 hello.ll: hello.c
 	clang -O3 -emit-llvm hello.c -S -o hello.ll
 
-.DEFAULT_GOAL := hello.s
 hello.s: hello.bc
 	llc hello.bc -o hello.s
+
+.DEFAULT_GOAL := hello
+hello: hello.s
+	gcc hello.s -o hello
 
 .PHONY: clean
 clean:
