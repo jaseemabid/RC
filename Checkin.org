@@ -14,5 +14,40 @@ This is the plan of action.
      solid, actually usable in the wild and has all the might of Apple behind
      it.
    - Start thinking about an IR.
- x
+
 First step? Learn LLVM
+
+* May 23
+
+** Progress
+
+Day spent reading various docs on LLVM
+
+1. The LLVM intro docs are a bit dry and boring. Covered a bit of it.
+2. The language reference will be handy when I need to look things up.
+   [[http://llvm.org/docs/LangRef.html][LLVM Language Reference Manual]]
+3. Kaleidoscope tutorial seems like the canonical place to start, but the code
+   is terrible. The [[https://github.com/eliben/pykaleidoscope][python port]] could be more useful. I'm about half way though.
+4. Working through Stephen Diehl's Haskell version might be the best thing to do.
+   [[http://www.stephendiehl.com/llvm/][Implementing a JIT Compiler with Haskell and LLVM]]
+
+I got some advice that one of the best ways to learn might be to read through
+the generated code for simple C source code, so I'm going to give that a try as
+well.
+
+Read through some of the vd source by @Saul.
+
+Pairing with Trent and Andrew reminded me how little asm I know and I need to
+brush up.
+
+Went to the ML paper reading group and felt stupid :)
+
+** Reading list [0/2]
+
+ - [ ] [[https://microcorruption.com/login][Embedded Security CTF]]
+ - [ ] [[http://eli.thegreenplace.net/tag/llvm-clang][Articles in tag "LLVM & Clang"]]
+
+** Plan for tomorrow
+
+Continue with the same reading list.
+Attend the vd workshop by Saul
