@@ -44,12 +44,30 @@ brush up.
 
 Went to the ML paper reading group and felt stupid :)
 
-** Reading list [0/2]
+** Reading list [1/3]
 
  - [ ] [[https://microcorruption.com/login][Embedded Security CTF]]
  - [ ] [[http://eli.thegreenplace.net/tag/llvm-clang][Articles in tag "LLVM & Clang"]]
+ - [X] [[https://en.wikipedia.org/wiki/Static_single_assignment_form][Static single assignment form - Wikipedia]]
 
 ** Plan for tomorrow
 
 Continue with the same reading list.
 Attend the vd workshop by Saul
+
+* May 24
+
+** TODO
+
+   1. Work through the PWL paper
+
+** Progress
+
+   1. Paired with Dom on some ASM bits, there is quite a lot to learn here.
+   2. Worked though another chapter of Kaleidoscope
+   3. Figured out SSA - neat idea
+   4.
+
+** Reading list [0/2]
+
+  - [ ] [[https://sourceware.org/binutils/docs/as/][Using as]]
