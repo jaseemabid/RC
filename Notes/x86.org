@@ -1,0 +1,10 @@
+#+TITLE: Learning x86 assembly
+#+DATE: <2017-05-25 Thu>
+
+* Reading material [0/5]
+
+ - [ ] [[https://en.wikibooks.org/wiki/X86_Assembly/Introduction][X86 Assembly/Introduction - Wikibooks, open books for an open world]]
+ - [ ] [[http://www.cs.virginia.edu/~evans/cs216/guides/x86.html][Guide to x86 Assembly]]
+ - [ ] [[http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language][Learning to Read x86 Assembly Language - Pat Shaughnessy]]
+ - [ ] [[http://ref.x86asm.net/coder64.html][coder64 edition | X86 Opcode and Instruction Reference 1.12]]
+ - [ ] [[https://www.reddit.com/r/learnprogramming/comments/320j30/asm_where_do_i_start_to_learn_x86_assembly_for/cq7g3qc/][{ASM} Where do I start to learn x86 assembly for free? : learnprogramming]]
