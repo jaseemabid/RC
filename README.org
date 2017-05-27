@@ -67,3 +67,43 @@ Attend the vd workshop by Saul
 ** Reading list [0/2]
 
   - [ ] [[https://sourceware.org/binutils/docs/as/][Using as]]
+
+* May 25
+
+Recovering from a shitty hangover.
+
+I could go down 3 paths right now
+
+1. Kaleidoscope; the 'build a simple language in llvm' tutorial
+2. LLVM. Work with the manual, Clang output etc to get a better grasp of the
+   language
+3. x86 assembly.
+
+Plan for the day: work through Kaleidoscope as much as I can. Avoid
+distractions. Refer the llvm manual for concepts that aren't clear.
+
+* May 26
+
+Progress is not as great as I'd love it to be. Continue with the same agenda as
+yesterday.
+
+Stay focused!
+
+** What did I do?
+
+   - Paired with Dhanush on LLVM IR, learned a lot.
+   - Compiled a bunch of simple C programs and read through the generated code.
+   - Whiteboard discussion about allocators with Timm and Dhanush
+   - Managed to read through a lot of llvm-hs source. A bit hard to follow some
+     of the details and its not the best Haskell code.
+   - Attended the first Haskell meetup. Volunteered to help the group go through
+     the book.
+   - A nice dinner with 9 fellow RC folks :D
+
+* May 27
+
+First weekend is here. Should do the chores like cleaning up the home and
+laundry. Other than that,
+
+  - [ ] Setup ledger, see where the expenses are going
+  - [ ]
