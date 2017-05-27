@@ -1,10 +1,10 @@
 # http://llvm.org/docs/GettingStarted.html#an-example-using-the-llvm-tool-chain
 
 hello.bc: hello.c
-	clang -O3 -emit-llvm hello.c -c -o hello.bc
+	clang -O1 -emit-llvm hello.c -c -o hello.bc
 
 hello.ll: hello.c
-	clang -O3 -emit-llvm hello.c -S -o hello.ll
+	clang -O1 -emit-llvm hello.c -S -o hello.ll
 
 hello.s: hello.bc
 	llc hello.bc -o hello.s
