@@ -137,3 +137,30 @@ Managed to get Olifant generate the LLVM module, but the code generation is
 going wrong somewhere.
 
 Pushed everything to Github.
+
+Paired with Timm and clarified some of the AST bits that were confusing to me.
+
+Paired with Dhanush on his shell for a while, looking at memory leaks.
+
+* May 31
+
+** Plan for the day
+
+Oliphant (I named the project after the horn) is running into some wierd code
+generation issues. In the meanwhile, I'm taking some time to clarify the Haskell
+bits I'm not very sure about.
+
+Must get the calc compile correctly today.
+
+** Progress
+
+I managed to compile tiny numeric expressions into native LLVM code. Its VERY
+minimal right now, but working with something that actually works feels a lot
+better than just a few abstarct ideas in my head. Yay :D
+
+Its so minimal that the only thing it can do right now is to compute expressions
+and return the value. It can't even print them. You have to `./calc` and then
+use the shell expression `echo $?` to see the output.
+
+I'm going to take a break and work on Xmonad for a day or 2 now. Will get back
+to this soon.
