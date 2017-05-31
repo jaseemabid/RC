@@ -105,5 +105,35 @@ Stay focused!
 First weekend is here. Should do the chores like cleaning up the home and
 laundry. Other than that,
 
-  - [ ] Setup ledger, see where the expenses are going
-  - [ ]
+  - [X] Setup ledger, see where the expenses are going
+  - [ ] Setup pass on phone and laptop
+
+* May 28
+
+* May 29
+
+  Monday!
+
+  I should start writing some code rather than read through more manuals. Not
+  sure where exactly to start. Lisper maybe?
+
+** Progress
+
+Finally started writing some code rather than read through even more LLVM
+manuals and made some decent progress. Paired for about 5hrs with @veit and it
+was super productive. Thank you Veit! :D
+
+I'm generating some shitty LLVM code now, but its still something. Wil debug and
+clean up tomorrow.
+
+** Reading list
+
+   - [ ] Alexis Beingessner's thesis on ownership in rust; "You can't spell
+     Trust without Rust"
+
+* May 30
+
+Managed to get Olifant generate the LLVM module, but the code generation is
+going wrong somewhere.
+
+Pushed everything to Github.
