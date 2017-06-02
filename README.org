@@ -106,7 +106,7 @@ First weekend is here. Should do the chores like cleaning up the home and
 laundry. Other than that,
 
   - [X] Setup ledger, see where the expenses are going
-  - [ ] Setup pass on phone and laptop
+  - [X] Setup pass on phone and laptop
 
 * May 28
 
