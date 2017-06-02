@@ -164,3 +164,39 @@ use the shell expression `echo $?` to see the output.
 
 I'm going to take a break and work on Xmonad for a day or 2 now. Will get back
 to this soon.
+
+* June 1
+
+** Plan
+
+Read through some good Haskell code; Xmonad maybe.
+
+** Reading list
+
+  - On green threads
+
+  - [ ] [[https://c9x.me/articles/gthreads/intro.html][Green threads explained (intro)]]
+  - [ ] [[http://250bpm.com/blog:81][Performance of green threads and why it matters - 250bpm]]
+  - [ ] [[https://news.ycombinator.com/item?id%3D11449767][Why Erlang Matters | Hacker News]]
+  - [ ] [[https://blog.codeship.com/comparing-elixir-go/][Comparing Elixir and Go - via @codeship | via @codeship]]
+
+  - X window programming
+
+  - [ ] [[https://wiki.haskell.org/X_window_programming_in_Haskell][X window programming in Haskell - HaskellWiki]]
+
+  - On Haskell
+
+  - [ ] [[http://www.scs.stanford.edu/11au-cs240h/notes/ghc-slides.html#(1)][A Haskell Compiler]] <- Slides by David Terai
+
+** Updates
+
+  - Spend the first few hours of the day with XMonad/Xmobar, but that wasn't
+    very productive.
+  - Discussed with Rudy and Sam Patterson about various green thread
+    implementations. Learned a whole bunch of new things.
+  - Convinced Trent (maybe? :)) to give Haskell a try.
+  - Spend the evening reading 'TAPL' and decided that I'll pick a slightly
+    modified lambda calculus as frontend for my compiler. There is a lot of
+    compiler tricks I can do there. I could even write a blog about the plan.
+  - Discussed with Dhanush and Tim about lambda calculus. I think I finally get
+    this.
