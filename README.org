@@ -200,3 +200,48 @@ Read through some good Haskell code; Xmonad maybe.
     compiler tricks I can do there. I could even write a blog about the plan.
   - Discussed with Dhanush and Tim about lambda calculus. I think I finally get
     this.
+
+* June 2
+
+Compile a reasonably larger lambda calc AST to LLVM. Hide in a corner and get
+some work done!
+
+* June 5, Monday
+
+** Olifant, plan of action [2/6]
+
+  - [X] Added a very rudimentary frontend and CLI interface.
+  - [X] Need tests. Things are starting to take shape
+  - [ ] Expand AST to rest of Lambda Calculus
+  - [ ] Write down issues with the LLVM bindings.
+  - [ ] Thought and brainstored a lot with a couple of people about the added
+    advantage of a simpler custom IR. I think I'll give it a try.
+  - [ ] Added local variables to Olifant. Learned a bit about how the memory is
+    managed for such local values.
+
+** Reading list
+
+  - [ ] Watch [[https://www.youtube.com/watch?v%3DGZPup5Iuaqw][Next Level MTL - George Wilson - BFPG 2016-06 - YouTube]]
+  - [ ] [[http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html][Haskell for all: Why free monads matter]]
+  - [ ] [[http://www.tweag.io/posts/2016-10-17-inline-java.html][Tweag I/O - A new ecosystem for Haskell:<br> the JVM]]
+  - [ ] [[https://www.destroyallsoftware.com/compendium/network-protocols?share_key%3D97d3ba4c24d21147][Network Protocols - Programmer's Compendium]]
+
+** Issues with the library
+
+1. Records share the same fields, causing import conflicts. Will
+   OverloadedRecordFields help? OverloadedRecordFields (actually DuplicateRecordFields )
+2. Not as type safe as I'd love it to be.
+3. Lack of a *good* pretty printer
+
+* June 6
+
+** Reading list [0/4]
+
+   - [ ] https://en.wikipedia.org/wiki/Lambda_lifting
+   - [ ] http://matt.might.net/articles/closure-conversion/
+   - [ ] https://wiki.haskell.org/Lambda_lifting
+   - [ ] Paper: [[file:~/Library/Math/downey07randfloat.pdf][Generating Pseudo-random Floating-Point Values]]
+
+** Progress
+
+I'm a bit lost in some of the details. Focus
