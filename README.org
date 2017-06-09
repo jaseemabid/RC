@@ -245,3 +245,28 @@ some work done!
 ** Progress
 
 I'm a bit lost in some of the details. Focus
+
+* Jun 8
+
+Last couple of days were not as productive as I'd like it to be. I got stuck
+with various issues, had to learn, unlearn and relearn lot of things, and
+sometimes I got stuck and I don't even know why.
+
+Olifant is trying to compile a lambda calculus like language into LLVM. I've
+been writing this code in Haskell and the Haskell bindings are kind of ugly. The
+basic idea is to walk over the AST and produce a huge hairy blob called
+LLVM.AST.Module; which you can give to the LLVM C++ API to generate the IR;
+which eventually can be compiled down to machine code.
+
+One of the core ideas of Haskell is type safety. The type system should make it
+impossible or at the very least hard to represent illogical programs. This
+library fails miserably at it. So quite often the LLVM blob I generate is non
+sense. The compiler errors from this module object is quite useless and I ended
+up picking a pretty printer library to print the LLVM IR without going though
+the real compiler. This approach worked in the beginning and helped me make some
+progress, but soon it turned out to be a poorly designed library as well. It
+crashes for way too often to be of any use. I spend (wasted?) a good part of the
+day trying to fix the library, wrote a patch just to realize that someone opened
+a very similar PR just 2 days ago.
+
+I spend the rest of the time reading Humans of NY.
