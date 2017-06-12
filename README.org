@@ -270,3 +270,50 @@ day trying to fix the library, wrote a patch just to realize that someone opened
 a very similar PR just 2 days ago.
 
 I spend the rest of the time reading Humans of NY.
+
+* Jun 9
+
+I could stay away from LLVM for a day or 2 and start with transformations in a
+higher level representation to a lower level IR completely under my control.
+
+I could also work a bit more and understand symbol tables before I move on with
+the design of the IR.
+
+** Reading list [0/3]
+
+  - [ ] http://www.memorymanagement.org/
+
+* Jun 12
+
+Tech:
+
+Spent a lot of time in the last few days thinking about an intermediate IR for
+my compiler and I got carried away by very little nuances of it. I'm starting to
+get some more clarity on the problem now. Made some progress over the weekend
+and today morning. I keep saying 'Not all those who wander are lost' to myself
+once in a while.
+
+Ref: https://en.wikipedia.org/wiki/All_that_is_gold_does_not_glitter
+
+Health:
+
+I should learn to type properly. After years of avoiding it, I think its
+starting to hit me. Occasional pain in the hands.
+
+Personal:
+
+Spent the Saturday at NLPL rose reading room. New Yorkers, please don't take
+that amazing institution for granted. Its glorious beyond words. I felt this
+crazy responsibility to be super productive in an environment like that. I'm
+planning to spend at least one day a week working from the NYPL main branch on
+42nd street.
+
+Spent Sunday at Museum of Natural history, the apple store, steps of the Lincoln
+performing center etc with @stefan and @tim. Thanks for the lovely conversation
+folks! It gets a bit lonely here away from friends and family and loved ones and
+you all are filling the gaps nicely.
+
+Plan for the day:
+
+Should stop working with the low level code generator and start with much more
+interesting program transformation techniques.
