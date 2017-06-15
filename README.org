@@ -317,3 +317,26 @@ Plan for the day:
 
 Should stop working with the low level code generator and start with much more
 interesting program transformation techniques.
+
+* June 14
+
+Spent the day at NYPL
+
+* June 15
+
+I cant think of anything more annoying than learning to touch type _properly_,
+switching from a laptop keyboard to kinesis and emacs -> spacemacs at the same
+time. This is frustrating and hard!
+
+I spent the day at NYPL yesterday and managed to get the frontend for the
+compiler working. It can compile simple small expressions to an AST I'm calling
+Calculus. I'm planning to spend the day either polishing some of the low level
+code generation bits or transformations from the higher level AST to the lower
+one.
+
+The code is in a decent shape now and I'd love to pair on this with someone else
+for a while. cc: @**Tim Babb (S1'17)** @**Ethan Raymond (S1'17)**. If anyone is
+interested in fiddling with compilers in Haskell, please join. There are a lot
+of interesting sub problems.
+
+Hands don't hurt anymore and I can type. Avoiding funky key chords helped a lot.
