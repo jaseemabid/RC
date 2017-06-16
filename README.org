@@ -340,3 +340,11 @@ interested in fiddling with compilers in Haskell, please join. There are a lot
 of interesting sub problems.
 
 Hands don't hurt anymore and I can type. Avoiding funky key chords helped a lot.
+
+--
+
+Paired with Ethan on making the code generator understand binary types. It was a
+very productive session.
+
+Paired with Tim on his visual editor. Wrote some JS again after a long time.
+Happy that I don't do it anymore.
