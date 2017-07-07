@@ -356,3 +356,19 @@ really do anything other than work during last 2 weekends.
 
 @Indradhanush Gupta (S1'17) and I are going to MoMA by ~4pm. Friday entry after
 4pm is free. Please join us if interested.
+
+* July 5
+
+Start of the second half, should be a lot more regular with check-ins now!
+
+Finished off the blog post on Olifant and felt great. It took a lot of effort,
+but it feels worth it now that a lot of people are reading it and giving me
+positive feedback.
+
+* July 6
+
+Had a very productive pairing session with Dan Luu in the morning. Should do a
+lot more reading about the related topics to solidify concepts.
+
+Got a very simple form of FFI working in Olifant and felt awesome. I can call
+this a neat milestone.
