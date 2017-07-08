@@ -372,3 +372,18 @@ lot more reading about the related topics to solidify concepts.
 
 Got a very simple form of FFI working in Olifant and felt awesome. I can call
 this a neat milestone.
+
+Made some progress with the book I'm reading, 'The underground railroad' by
+Colson Whitehead.
+
+* July 7
+
+Reached RC by 6:30pm and I'm not in a mood to work.
+
+* Things I should do soon [1/5]
+
+  - [X] Fix my tmux setup right (copy paste is broken since I moved to linux)
+  - [ ] Work though the cache code and understand it better
+  - [ ] Read through the ELF stuff, pair with @wesley
+  - [ ] Learn some Rust
+  - [ ] Apply for the rust outreach program
