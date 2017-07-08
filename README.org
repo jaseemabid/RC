@@ -380,10 +380,13 @@ Colson Whitehead.
 
 Reached RC by 6:30pm and I'm not in a mood to work.
 
-* Things I should do soon [1/5]
+Read through the [[https://en.wikipedia.org/wiki/Executable_and_Linkable_Format][ELF format]] and some related documentation. This is interesting.
+Also learned that a.out file is usually not in a.out format but ELf these days.
+
+** Things I should do soon [2/5]
 
   - [X] Fix my tmux setup right (copy paste is broken since I moved to linux)
   - [ ] Work though the cache code and understand it better
-  - [ ] Read through the ELF stuff, pair with @wesley
+  - [X] Read through the ELF stuff
   - [ ] Learn some Rust
   - [ ] Apply for the rust outreach program
