@@ -390,3 +390,8 @@ Also learned that a.out file is usually not in a.out format but ELf these days.
   - [X] Read through the ELF stuff
   - [ ] Learn some Rust
   - [ ] Apply for the rust outreach program
+
+* July 8
+
+Explored the financial district and took a ferry to Staten Island and back.
+Should do more of it.
