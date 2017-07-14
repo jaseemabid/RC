@@ -395,3 +395,37 @@ Also learned that a.out file is usually not in a.out format but ELf these days.
 
 Explored the financial district and took a ferry to Staten Island and back.
 Should do more of it.
+
+* July 9
+
+- Finished 'The underground railroad'
+- Spent a lot of time at Central Park and walking around mid town
+- Went for the Westerlies + Sarah Kay show and loved it
+
+* July 10
+
+- Woke up at ~4am and I've no idea how or why. Reached RC by ~8am
+- Talked to @wesley about using a combinatorial style parser for his ELF parser.
+  Or maybe Erlang style pattern match.
+- Fixed hexchat. Might get active with a couple of IRC channels. #haskell,
+  #archlinux and #xmonad maybe
+
+** TODO
+
+   - Fix the rest of the parser. Arity, precedence and infix ops
+
+* July 11
+
+Terrible day. Ended up staying awake till ~10 in the morning
+working on Olifant because I couldn't sleep. Felt terrible and then took a day
+off and stayed away from computers and went to the library with a book instead.
+My sleep patterns are becoming extremely random and erratic and messed up. I
+might have to go back to pills and I really don't want to.
+
+* July 13
+
+Late start due to all the beer last night. Didnt get any work done most of
+evening due to game night and even more beer.
+
+Managed to learn some assembly in the little bit of time I could concentrate and
+put that all on github.
