@@ -443,6 +443,8 @@ so far.
 Paired with @Lee Haugen on some algorithms in the morning. I've forgotten a lot
 and needs a refresher.
 
+Setup hexchat, I guess I'm going back to the IRC days.
+
 Managed to read through a lot more assembly and made some decent progress.
 
 I hope to read a some good C code to learn it better. My candidates were redis
