@@ -429,3 +429,36 @@ evening due to game night and even more beer.
 
 Managed to learn some assembly in the little bit of time I could concentrate and
 put that all on github.
+
+* July 14
+
+Melatonin seems to be having a good effect on me. Much more regular and better
+sleep.
+
+I hope to tinker a bit more with x86 assembly today and try to port some of the
+code @Dan Luu wrote to figure out cache sizes into assembly from C. I've been
+hoping to learn this for a long time and is happy with all the things I've found
+so far.
+
+Paired with @Lee Haugen on some algorithms in the morning. I've forgotten a lot
+and needs a refresher.
+
+Managed to read through a lot more assembly and made some decent progress.
+
+I hope to read a some good C code to learn it better. My candidates were redis
+and jemalloc. Maybe git. @Marcus suggested sqlite.
+
+Had a very interesting conversation with @Marcus on our way to lunch and we made
+this small list of things which we don't know the answers for.
+
+ - Who sets up the interrupt table?
+ - When is the table setup?
+ - How does OS preempt processes?
+ - What does the linker even do?
+ - Sqlite jemalloc redis as code samples
+ - Does slab allocator compact stuff?
+ - Relocatable slab?
+ - Print hardware int table
+ - Did kernel break userspace before? Examples?
+ - Number of linux syscalls as of now? The recent ones?
+ - C long jump vs short jump
