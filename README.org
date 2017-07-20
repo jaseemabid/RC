@@ -464,3 +464,40 @@ this small list of things which we don't know the answers for.
  - Did kernel break userspace before? Examples?
  - Number of linux syscalls as of now? The recent ones?
  - C long jump vs short jump
+
+* July 17
+
+ - Woke up pretty late and then had a lazy start on top of that. Lost quite a
+   lot of time
+ - Finally went bouldering and it was super fun
+ - I think I'm finally out of the asm rabbit hole
+ - Started learning some rust
+
+* July 18
+
+ - Got my book 'Emperor of all maladies' signed by the author. Happy!
+ - I've been very confused and lost about my career prospects and I really don't
+   know how to proceed forward. I'm a bit too pessimistic here.
+ - Made some progress with rust and really liked most of it. This is really
+   interested stuff!
+
+* July 19
+
+  - Paired with Evan and helped him fix his website deployment script
+  - Worked with Dan Luu on some more micro bench marking. Aggressive CPU scaling
+    might be the factor that makes some programs run slower on my machine. But
+    great battery life FTW!
+  - Met Nancy and she helped me think a bit more sanely about job search. Thank
+    you. :heart:
+  - Went to Papers we love. It was great as usual.
+  - Got an introduction to an Engineer and 2σ and we talked for a while. I think
+    it went good. Should prepare for an interview.
+  - Great beer at Houston Hall.
+
+
+* July 20
+
+  - I should work on my resume and spend some time evaluating a few jobs that
+    look interesting.
+  - Read some of the chrome tabs that are open since weeks.
+  - Deal with the unnecessary evil of hacker rank and  some algo preps
