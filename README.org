@@ -501,3 +501,35 @@ this small list of things which we don't know the answers for.
     look interesting.
   - Read some of the chrome tabs that are open since weeks.
   - Deal with the unnecessary evil of hacker rank and  some algo preps
+
+  - Went through the RC jobs directory and narrowed down to 9 companies that
+    look interesting. All have offices outside US (obviously) and some of them
+    are remote friendly.
+
+  - Digital Ocean
+  - Dropbox
+  - Heap
+  - JaneStreet
+  - NS1
+  - Stripe
+  - Spotify
+  - 3
+
+* July 27
+
+Last couple of days were pretty productive; I ended up doing some huge
+refactoring on Olifant.
+
+Hans Zimmer yesterday. Definitely an unforgettable experience.
+
+All the conversations with @Marcus was massively helpful. It helped me clarify
+ideas a lot.
+
+Paired with @Dhanush on some Erlang. Its so nice to work with Erlang after such
+a long time.
+
+Paired with @stefan again and we found and fixed some tiny bugs. Explained most
+of my code to him. We hope to pair tomorrow.
+
+Oliver Wyman interview tomorrow morning. All the best to me. Sleep well; or you
+wont wake at 11.
