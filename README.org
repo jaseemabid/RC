@@ -533,3 +533,17 @@ of my code to him. We hope to pair tomorrow.
 
 Oliver Wyman interview tomorrow morning. All the best to me. Sleep well; or you
 wont wake at 11.
+
+* July 31
+
+Had great weekend after a while because my friend visited and I didn't touch my
+laptop. I took some more time off and watched 2 movies. Feeling a lot better
+today.
+
+The last couple of working days were productive too. Made some progress with my
+compiler, make C FFI work etc. If anyone wants to pair on it, please get in
+touch. The code is pretty simple and is in a reasonably good shape.
+
+I had an interview with OW and it didn't go as good as I wanted it to be. I'm
+going to take some time preparing for interviews and make sure I don't blow up
+anything after this.
