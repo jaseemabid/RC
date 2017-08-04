@@ -547,3 +547,26 @@ touch. The code is pretty simple and is in a reasonably good shape.
 I had an interview with OW and it didn't go as good as I wanted it to be. I'm
 going to take some time preparing for interviews and make sure I don't blow up
 anything after this.
+
+* Aug 2
+
+Went to the library and worked through the first 8 chapters of 'Programming
+Pearls'. I'd say that was reasonably productive.
+
+Back to RC by about 5. Fiddled with the allocator a bit. Read a chapter or 2
+from the Linux programming manual.
+
+Calling it a day early and leaving now. I should get out of RC a bit more.
+
+* Aug 3
+
+Stayed away from RC because I don't want to be anywhere close a job fair. Its a
+painful experience to be in the middle of it.
+
+Went to the NYPL instead and worked through a few more chapters of programming
+pearls. Read through the nanopass paper again, much more seriously this time.
+
+I only worked for about ~4hrs, but felt that it was a really productive day, so
+I walked around midtown for the next couple of hours. Went to Rockefeller and
+sat there for a few hours. Spend almost an hour inside the St Patrick's
+cathedral.
