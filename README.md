@@ -173,8 +173,7 @@ On green threads
 
 1. [ ] [Green threads explained (intro)](https://c9x.me/articles/gthreads/intro.html)
 1. [ ] [Performance of green threads and why it matters - 250bpm](http://250bpm.com/blog:81)
-1. [ ] [Why Erlang Matters | Hacker News](https://news.ycombinator.com/item?id%3D11449767)
-1. [ ] [Comparing Elixir and Go - via @codeship | via @codeship](https://blog.codeship.com/comparing-elixir-go/)
+1. [ ] [Comparing Elixir and Go](https://blog.codeship.com/comparing-elixir-go/)
 
 X window programming
 
@@ -202,7 +201,7 @@ On Haskell
 Compile a reasonably larger lambda calc AST to LLVM. Hide in a corner and get
 some work done!
 
-### June 5, Monday
+### June 5
 
 #### Olifant, plan of action
 
